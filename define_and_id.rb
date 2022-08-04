@@ -9,7 +9,7 @@
 
 # YOU DO the rest:
 
-#this method asks if the string object contains what is in the (). In this case does it contain "Hello" it returns `true`
+#this method is called on The string object "Hello World" and askd if it contains "Hello". Because it does contain "Hello" the method returns `true`
 "Hello World".include?("Hello")
 
 #this method asks if the string object ends with Hello. It does not, so it returns `false`
