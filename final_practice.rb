@@ -29,10 +29,10 @@ custom_greeting("Bryan")
 def square(number)
   p number * number
 end
- square(2)
-# What is the return value of your method? 4
-# How many arguments did you pass your method? 1
-# What data type was your argument(s)? integer
+square(15328)
+# What is the return value of your method?
+# How many arguments did you pass your method?
+# What data type was your argument(s)?
 
 
 
